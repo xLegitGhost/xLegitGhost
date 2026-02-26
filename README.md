@@ -22,13 +22,15 @@ Me gusta aprender sobre arquitectura de software y llevar a cabo proyectos escal
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 **Frameworks & Librerías:**
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=for-the-badge&logo=tailwind-css)
 
 **Bases de Datos & Cloud:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,12 +43,10 @@ Me gusta aprender sobre arquitectura de software y llevar a cabo proyectos escal
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium&hide_border=true" width="48%" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radium&hide_border=true" width="48%" alt="Racha de GitHub" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radium&hide_border=true" width="48%" alt="Lenguajes más usados" />
 </div>
