@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, 👋 Soy xLegitGhost
 
-<!--
-**xLegitGhost/xLegitGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=40&fontAlignY=38&desc=[Tu%20Especialidad,%20ej.%20Full%20Stack%20/%20Backend%20Developer]&descAlignY=61&descAlign=62" alt="Header" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+
+Soy un **FullStack Developer & Software Engineer Student** apasionado por crear aplicaciones web y soluciones pensando en la arquitectura. Me gusta aprender nuevas tecnologías y actualizarme cada día.
+
+* 🔭 Actualmente trabajando en **KaloAI**
+* 🌱 Actualmente mi stack es **TypeScript, NextJS, TailwindCSS, React y ExpressJS**
+
+Me gusta aprender sobre arquitectura de software y llevar a cabo proyectos escalables.
