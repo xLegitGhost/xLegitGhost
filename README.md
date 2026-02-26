@@ -44,11 +44,11 @@ Me gusta aprender sobre arquitectura de software y llevar a cabo proyectos escal
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xLegitGhost&theme=radium&hide_border=true" width="48%" alt="Racha de GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xLegitGhost&theme=radium&hide_border=true" width="48%" alt="Racha de GitHub" />
 </div>
 
 <br/>
 
 <div align="center">
   
-</div>>
+</div>
