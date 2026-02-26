@@ -1,7 +1,7 @@
 # Hola, 👋 Soy xLegitGhost
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=40&fontAlignY=38&desc=[Tu%20Especialidad,%20ej.%20Full%20Stack%20/%20Backend%20Developer]&descAlignY=61&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=xLegitGhost&fontSize=40&fontAlignY=38&desc=FullStack%20Developer&descAlignY=61&descAlign=62" alt="Header" />
 </div>
 
 <br/>
