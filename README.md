@@ -14,6 +14,7 @@ Soy un **FullStack Developer & Software Engineer Student** apasionado por crear 
 * 🌱 Actualmente mi stack es **TypeScript, NextJS, TailwindCSS, React y ExpressJS**
 * 👯 Buscando colaborar en **cualquier tipo de proyectos con otros desarrolladores**
 * ⚡ Dato curioso: **Me gusta hacer ejercicio y disfrutar de la naturaleza**
+* 📖 Me encuentro aprendiendo **NestJS** para APIs y microservicios robustos y escalables.
 
 Me gusta aprender sobre arquitectura de software y llevar a cabo proyectos escalables.
 
