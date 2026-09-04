@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un **FullStack Developer & Software Engineer Student** apasionado por crear aplicaciones web y soluciones pensando en la arquitectura. Me gusta aprender nuevas tecnologías y actualizarme cada día.
+Soy un **FullStack Developer & Software Engineer Student** apasionado por crear aplicaciones web y soluciones priorizando la arquitectura y escalabilidad. Me gusta aprender nuevas tecnologías y actualizarme cada día.
 
 * 🔭 Actualmente trabajando en **KaloAI**
 * 🌱 Actualmente mi stack es **TypeScript, NextJS, TailwindCSS, React y ExpressJS**
@@ -16,7 +16,7 @@ Soy un **FullStack Developer & Software Engineer Student** apasionado por crear 
 * ⚡ Dato curioso: **Me gusta hacer ejercicio y disfrutar de la naturaleza**
 * 📖 Me encuentro aprendiendo **NestJS** para APIs y microservicios robustos y escalables.
 
-Me gusta aprender sobre arquitectura de software y llevar a cabo proyectos escalables.
+Me gusta aprender sobre arquitectura de software, patrones de diseño, infraestructura cloud y llevar a cabo proyectos escalables.
 
 ---
 
