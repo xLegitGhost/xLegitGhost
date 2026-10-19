@@ -10,7 +10,7 @@
 
 Soy un **FullStack Developer & Software Engineer Student** apasionado por crear aplicaciones web y soluciones priorizando la arquitectura y escalabilidad. Me gusta aprender nuevas tecnologías y actualizarme cada día.
 
-* 🔭 Actualmente trabajando en **KaloAI**
+* 🔭 Actualmente trabajando en **[Kaluri](https://kaluri.app/)**
 * 🌱 Actualmente mi stack es **TypeScript, NextJS, TailwindCSS, React y ExpressJS**
 * 👯 Buscando colaborar en **cualquier tipo de proyectos con otros desarrolladores**
 * ⚡ Dato curioso: **Me gusta hacer ejercicio y disfrutar de la naturaleza**
